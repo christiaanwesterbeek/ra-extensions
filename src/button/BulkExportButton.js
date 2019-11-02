@@ -18,7 +18,7 @@ const sanitizeRestProps = ({
 }) => rest;
 
 const crudExportMany = (resource, ids, callback) => ({
-    type: 'MB/CRUD_GET_MANY_FOR_EXPORT',
+    type: 'RAX/CRUD_GET_MANY_FOR_EXPORT',
     payload: { ids },
     meta: {
         resource,
