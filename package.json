@@ -1,0 +1,9 @@
+{
+  "name": "ra-extensions",
+  "version": "0.0.1",
+  "description": "Extends the frontend framework of react-admin with additional components, hooks, actions, etc",
+  "main": "index.js",
+  "repository": "https://github.com/christiaanwesterbeek/ra-extensions.git",
+  "author": "Christiaan Westerbeek <chris@devotis.nl>",
+  "license": "MIT"
+}
