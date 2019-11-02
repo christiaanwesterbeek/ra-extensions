@@ -2,7 +2,7 @@
 const raxMessages = {
     rax: {
         notification: {
-            exporting: 'Exporting %{smart_count} record |||| Exporting %{smart_count} records'
+            exporting: 'Exporter %{smart_count} ligne |||| Exportation de %{smart_count} lignes'
         },
     }
 };

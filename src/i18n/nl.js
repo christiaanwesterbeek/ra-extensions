@@ -1,6 +1,6 @@
 // prettier-ignore
 const raxMessages = {
-    mb: {
+    rax: {
         notification: {
             exporting: '%{smart_count} record aan het exporteren |||| %{smart_count} records aan het exporteren'
         },
