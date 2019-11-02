@@ -4,7 +4,9 @@ Let's start of by saying that react-admin rocks! That means the people building 
 
 ## Installation
 
-...
+🚧 Work in progress 🚧
+
+This library might not work yet. Although the single component BulkExportButton in it is working. This might not yet be installable. I just started today...
 
 ## Usage
 
