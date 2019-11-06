@@ -3,8 +3,10 @@
   "version": "0.0.1",
   "description": "Extends the frontend framework of react-admin with additional components, hooks, actions, etc",
   "main": "lib/index.js",
+  "files": ["lib/**/*"],
   "scripts": {
     "build" : "tsc",
+    "prepare" : "yarn build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://github.com/christiaanwesterbeek/ra-extensions.git",
