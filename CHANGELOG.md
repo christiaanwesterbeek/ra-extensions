@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.1] - 2019-11-07
+
+### Fixed
+- `import { raxMessages } from 'ra-extension` not working
+
 ## [2.0.0] - 2019-11-07
 
 First public release that is compatible with react-admin 2.x.
