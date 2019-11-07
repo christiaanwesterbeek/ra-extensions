@@ -1,7 +1,7 @@
 {
   "name": "ra-extensions",
   "version": "2.0.0",
-  "description": "Extends the frontend framework of react-admin with additional components, hooks, actions, etc",
+  "description": "Community powered extensions for the frontend framework of react-admin 💪",
   "main": "lib/index.js",
   "files": ["lib/**/*"],
   "scripts": {
