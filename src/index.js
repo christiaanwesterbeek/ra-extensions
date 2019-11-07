@@ -1,2 +1,2 @@
 export * from './button';
-export * from './i18n';
+export { default as raxMessages } from './i18n';
