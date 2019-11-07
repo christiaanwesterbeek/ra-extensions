@@ -1,8 +1,8 @@
 # react-admin extensions
 
-Let's start of by saying that react-admin rocks! That means the people building and supporting it are really all-in with this framework. I'm using it for all my clients. Sometimes it happens that a feature or component is requested, but it isn't getting added to react-admin. In those cases it's often said that they won't add and it can be solved in userland. I respect that.
+Let's start of by saying that [react-admin](https://github.com/marmelab/react-admin) rocks! That means the people building and supporting it are really all-in with this framework. I'm using it for all my clients. Sometimes it happens that a feature or component is requested, but it isn't getting added to react-admin. In those cases it's often said that they won't add and it can be solved in userland. I respect that.
 
-Welcome to userland 👥!
+Welcome to userland, but organised! 👨‍💻👩‍💻
 
 This repo is here to provide an additional set of components, hooks, action, etc that are not added (yet) to react-admin itself.
 
@@ -11,7 +11,7 @@ This repo is here to provide an additional set of components, hooks, action, etc
 - button
   - BulkExportButton
 
-Can't find what you're looking for? Either propose your component or addition in a PR. Or create an issue to request it.
+Can't find what you're looking for? Either propose your component or addition in a PR. Or [create an issue](./issues/new) to request or discuss it.
 
 Also, many packages have been already been [published by the community](https://marmelab.com/react-admin/Ecosystem.html) that augment react-admin. Most of them provide one functionality or component. The intention of this repo is to house many (unrelated) components that we as a community can contribute to and use.
 
@@ -69,8 +69,6 @@ const SomeList = props => (
 export default SomeList;
 ```
 
-
-
 ### Translation
 
 Add the extra translations that some components may require.
@@ -98,5 +96,3 @@ const App = () => (
     </Admin>
 );
 ```
-
-## There's more
