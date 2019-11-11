@@ -11,9 +11,9 @@ This repo is here to provide an additional set of components, hooks, action, etc
 - button
   - BulkExportButton
 
-Can't find what you're looking for? Either propose your component or addition in a PR. Or [create an issue](https://github.com/christiaanwesterbeek/ra-extensions/issues/new) to request or discuss it.
+Right now this is the only component of this repo. You're very welcome to [create an issue](https://github.com/christiaanwesterbeek/ra-extensions/issues/new) to request or discuss it. Or you can propose your component or addition in a PR.
 
-Also, many packages have been already been [published by the community](https://marmelab.com/react-admin/Ecosystem.html) that augment react-admin. Most of them provide one functionality or component. The intention of this repo is to house many (unrelated) components that we as a community can contribute to and use.
+Also, many packages have already been [published by the community](https://marmelab.com/react-admin/Ecosystem.html) that augment react-admin. Most of them provide one functionality or component. The intention of this repo is to house many (unrelated) components that we as a community can contribute to and use.
 
 ## Installation
 
